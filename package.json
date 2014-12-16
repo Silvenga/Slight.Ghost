@@ -1,0 +1,25 @@
+{
+    "name": "slight-ghost",
+    "version": "1.0.0",
+    "description": "A simple scaffolding for a Ghost blog, optimised for streamlined updates on a server like platform.",
+    "license": "MIT",
+    "homepage": "https://github.com/Silvenga/Slight-Ghost",
+    "author": {
+        "name": "Mark Lopez",
+        "email": "m@silenga.com",
+        "url": "https://silvenga.com"
+    },
+    "bugs": {
+        "url": "https://github.com/Silvenga/Slight-Ghost/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Silvenga/Slight-Ghost.git"
+    },
+    "engines": {
+        "node": ">=0.10.3"
+    },
+    "dependencies": {
+        "ghost": "latest"
+    }
+}
