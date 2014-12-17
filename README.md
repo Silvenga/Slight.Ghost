@@ -11,9 +11,6 @@ A simple scaffolding for a Ghost blog, optimised for streamlined updates on a se
 # Clone the scaffolding.
 git clone https://github.com/Silvenga/Slight-Ghost.git ghost
 
-# Move the current directory. 
-cd ghost
-
 # Clone the default theme. 
 git submodule update --init --recursive
 
@@ -41,6 +38,17 @@ git pull --recurse-submodules
 
 # Updated and install any new dependencies. 
 npm install
+```
+
+## Advance
+
+Update the `content` directory. 
+
+```
+git checkout ghost
+git pull https://github.com/TryGhost/Ghost.git stable
+git checkout master
+git checkout ghost -- content
 ```
 
 ## License
