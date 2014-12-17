@@ -1,5 +1,7 @@
 # Slight-Ghost
 
+This can also be found on my blog (proudly powered by Ghost) at Silvenga.com (https://silvenga.com/slight-ghost). 
+
 ## Introduction 
 
 I believe that upgrades should be simple, as such, I really hate dealing with zips and messing around in Ghost's core directory. Being the lazy developer that I am, I created this mini-project called Slight Ghost - a simple scaffolding for a Ghost blog, optimised for streamlined updates. 
@@ -15,7 +17,9 @@ sudo apt-get install git node
 ```
 Installing is as simple as a `git clone`. First clone the scaffolding.
 ```
+cd /var/www/ 
 git clone https://github.com/Silvenga/Slight-Ghost.git ghost
+cd ghost
 ```
 Clone the default theme. 
 ```
