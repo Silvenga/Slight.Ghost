@@ -31,11 +31,7 @@ node_modules
 .dist
 .tmp
 
-/core/client/docs/_site
-/content/tmp/*
-/content/data/*
-/content/apps/**/*
-/content/themes/**/*
-/content/images/**/*
 
 config.js
+
+/content/
