@@ -4,7 +4,7 @@ This can also be found on my blog (proudly powered by Ghost) at Silvenga.com (ht
 
 ## Introduction 
 
-I believe that upgrades should be simple, as such, I really hate dealing with zips and messing around in Ghost's core directory. Being the lazy developer that I am, I created this mini-project called Slight Ghost - a simple scaffolding for a Ghost blog, optimised for streamlined updates. 
+I believe that upgrades should be simple, as such, I really hate dealing with zips and messing around in Ghost's core directory just to get the thing updated. Being the lazy developer that I am, I created this mini-project called Slight Ghost - a simple scaffolding for a Ghost blog, optimised for streamlined updates. 
 
 ## Install
 
