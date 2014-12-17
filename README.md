@@ -45,7 +45,7 @@ Done! Checkout the Upgrade section for information on how to upgrade.
 
 ## Run
 
-Run `slight-ghost` just like the normal installation of Ghost. I recommend using Upstart the keep Ghost running (https://silvenga.com/power-ghost-with-upstart/).
+Run `slight-ghost` just like the normal installation of Ghost. I recommend using Upstart to keep Ghost running (https://silvenga.com/power-ghost-with-upstart/).
 ```
 node index.js
 ```
