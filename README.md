@@ -58,6 +58,7 @@ node index.js
 Update the base scaffolding and the default theme using `git`.
 ```
 git pull --recurse-submodules
+git submodule update --remote --merge
 ```
 Updated and install any new dependencies using `npm`.
 ```
