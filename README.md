@@ -104,6 +104,8 @@ Get the latest stable version of Ghost to base the scaffolding off of.
 git pull https://github.com/TryGhost/Ghost.git stable
 ```
 
+> Git >= 2.9 needs `--allow-unrelated-histories`
+
 Switch back to our original branch. 
 
 ```
